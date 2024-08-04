@@ -1,0 +1,9 @@
+1. Accuracy increases with the increase of the number of hidden layers also as the nodes increases capacity of the neural network increases to learn complex patterns of data. But the neural network may start to memorize the given data rather than trying to learn from new data. also the computational time and cost increases as the number of hidden nodes increase.
+
+2. Intitially when the number of hidden nodes increases the accuracy of the training and validation datasets improves beacause the network can capture the underlying structure of the data more precisely.
+
+But beyond a certain point adding the hidden nodes wont increase the accuracy also may decrese the accuracy due to overfitting.
+
+When the neural network has the optimal number of hidden nodes with the balance of learning capacity and generalization the accuracy will be optimum.
+
+in the above accuracy outputs we can observe that the neural network first start improving and then meet the optimum amount of hidden nodes and after saturating even more nodes decreases the accuracy due to overfitting.
